@@ -1,1 +1,1 @@
-# wildanarticles.github.io
+# wildanarticles
